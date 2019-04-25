@@ -1,0 +1,8 @@
+name: HeadDrop_Plugin
+main: HeadDropPlugin\HeadDropPlugin
+version: 1.0.0
+api: 3.0.0
+
+author: maxxie115
+description: Head Drop plugin
+website: https://mxpersonal.com/
