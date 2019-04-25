@@ -1,5 +1,5 @@
 # HeadDrop Plugin
-This plugin give the killer a certain customizable percentage of the victim's balance, and at the same time get a player_head item that is named "<victim>'s head"
+This plugin give the killer a certain customizable percentage of the victim's balance, and at the same time get a player_head item that is named "(victim)'s head"
 
 # Features
 - This plugin have these features:
