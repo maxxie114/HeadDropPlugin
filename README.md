@@ -6,7 +6,6 @@ This plugin give the killer a certain customizable percentage of the victim's ba
 1. When a player(attacker) kill another player(victim), the victim will drop a player_head item named "<victim>'s head".
 2. When the attacker killed the victim, he will get a certain customizable percentage of the victim's money, these money will be deducted from the victim's balance.
 
-
 # API Used
 - Pocketmine-MP
 - EconomyAPI
@@ -17,6 +16,9 @@ PSR-2
 # Installation
 1. Put HeadDropPlugin.phar into pocketmine directory, inside the directory named plugins
 2. Please make sure you have EconomyAPI installed
+
+# Contribution
+You are free to contribute to this plugin by creating a post request, but please make sure you are using PSR-2 coding style.
 
 # License
 MIT
