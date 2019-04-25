@@ -3,7 +3,7 @@ This plugin give the killer a certain customizable percentage of the victim's ba
 
 # Features
 - This plugin have these features:
-1. When a player(attacker) kill another player(victim), the victim will drop a player_head item named "<victim>'s head".
+1. When a player(attacker) kill another player(victim), the victim will drop a player_head item named "(victim)'s head".
 2. When the attacker killed the victim, he will get a certain customizable percentage of the victim's money, these money will be deducted from the victim's balance.
 
 # API Used
